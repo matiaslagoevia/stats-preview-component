@@ -5,12 +5,29 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css" />
-  <title>Frontend Mentor | {{CHALLENGE_NAME}}</title>
+  <title>Frontend Mentor | Stats Preview Card</title>
 </head>
 
 <body>
   <main>
-    <!-- the actual challenge goes here -->
+    <div class="c-stats-card">
+      <div class="c-stats-card__img-part">
+        <picture>
+          <source srcset="..." media="(min-width: ...rem)" />
+          <img src="..." alt="" class="c-stats-card__img" />
+        </picture>
+      </div>
+      <div class="c-stats-card__text-part">
+        <h2 class="c-stats-card__title"></h2>
+        <p class="c-stats-card__desc"></p>
+        <ul class="c-stats-card__statistics">
+          <li class="c-stats-card__statistic">
+            <p class="c-stats-card__statistic-value"></p>
+            <p class="c-stats-card__statistic-desc"></p>
+          </li>
+        </ul>
+      </div>
+    </div>
   </main>
   <footer>
     <p>
