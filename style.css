@@ -15,7 +15,7 @@ main {
   display: flex;
   flex-direction: column;
   flex: 1;
-  margin: 0 1rem;
+  margin: 0 auto;
   justify-content: center;
 }
 
@@ -26,6 +26,8 @@ footer {
 .c-stats-card {
   background: hsl(244, 38%, 16%);
   border-radius: 1em;
+  max-width: 465px;
+  margin: 0 1em;
 }
 
 .c-stats-card__img-part {
@@ -83,4 +85,38 @@ footer {
   font-family: 'Lexend Deca', sans-serif;
   font-size: 0.75rem;
   color: hsla(0, 0%, 100%, 0.6);
+}
+
+@media (min-width: 850px) {
+  .c-stats-card {
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 1016px;
+    margin: 0 4em;
+  }
+
+  .c-stats-card__img-part {
+    border-bottom-right-radius: 1em;
+    flex: 1;
+  }
+
+  .c-stats-card__img {
+    border-bottom-right-radius: 1em;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .c-stats-card__text-part {
+    text-align: left;
+    align-items: normal;
+    padding: 4em;
+    gap: 2em;
+    flex: 1;
+  }
+
+  .c-stats-card__statistics {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: auto;
+  }
 }
