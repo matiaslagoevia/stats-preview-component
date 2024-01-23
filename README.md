@@ -44,10 +44,12 @@ Users should be able to:
 ### What I learned
 
 **HTML Structure & BEM**
+
 I used `@gracesnow`'s tutorial as a reference to help me overcome some hurdles I had.
 I then used FigJam (I'd used Excalidraw before) to do some of the thinking and come up with the class names.
 
 **Image skills: `<picture>`, `mix-blend-mode`, `object-fit`**
+
 Grace's tutorial was helpful here as well, and I complemented it with MDN.
 
 ### Continued development
