@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-stats-preview-component-using-flexbox-and-bem-9TfTQ7v_yG)
-- Live Site URL: [https://stats-component.matiaslagoevia.com](https://stats-component.matiaslagoevia.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-stats-preview-component-using-flexbox-and-bem-9TfTQ7v_yG)
+- [Live Site URL](https://stats-component.matiaslagoevia.com)
 
 ## My process
 
@@ -43,11 +43,11 @@ Users should be able to:
 
 ### What I learned
 
-** HTML Structure & BEM **
+**HTML Structure & BEM**
 I used `@gracesnow`'s tutorial as a reference to help me overcome some hurdles I had.
 I then used FigJam (I'd used Excalidraw before) to do some of the thinking and come up with the class names.
 
-** Image skills: `<picture>`, `mix-blend-mode`, `object-fit` **
+**Image skills: `<picture>`, `mix-blend-mode`, `object-fit`**
 Grace's tutorial was helpful here as well, and I complemented it with MDN.
 
 ### Continued development
