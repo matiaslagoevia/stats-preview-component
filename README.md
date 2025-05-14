@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/responsive-stats-preview-component-using-flexbox-and-bem-9TfTQ7v_yG)
-- [Live Site URL](https://stats-component.matiaslagoevia.com)
+- [Live Site URL](https://stats-component.matiaslagoevia.me)
 
 ## My process
 
@@ -65,6 +65,6 @@ Also, I'd like to continue to get better with images and other types of media.
 
 ## Author
 
-- Website - [Matias Lago Evia](https://matiaslagoevia.com)
+- Website - [Matias Lago Evia](https://matiaslagoevia.me)
 - Frontend Mentor - [@matiaslagoevia](https://www.frontendmentor.io/profile/matiaslagoevia)
 
